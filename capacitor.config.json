@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "proraudio",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
